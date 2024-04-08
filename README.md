@@ -8,7 +8,8 @@
 
 ### Showcase
 
- 
+ ![image](https://github.com/dubYUA/Roblox/assets/166437694/d3cd9d68-f258-4fa1-89b3-ff7c533b902c)
+
 ### How It Works:
 Download and Install: 
 Get the Setup from this repository and follow the installation instructions. 
